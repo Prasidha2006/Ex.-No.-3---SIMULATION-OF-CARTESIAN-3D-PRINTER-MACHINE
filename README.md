@@ -63,8 +63,5 @@
 <img width="1499" height="900" alt="image" src="https://github.com/user-attachments/assets/eb24609c-f003-4672-af31-c150a9013bac" />
 
 
-### Name: PUGAZH V
-### Register Number:212225240109
-
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
